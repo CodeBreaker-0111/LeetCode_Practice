@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0001-two-sum) |
 | [0134-gas-station](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0134-gas-station) |
+| [0217-contains-duplicate](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0217-contains-duplicate) |
 ## Greedy
 |  |
 | ------- |
@@ -16,4 +17,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
