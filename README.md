@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0049-group-anagrams) |
 | [0134-gas-station](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0134-gas-station) |
 | [0217-contains-duplicate](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0238-product-of-array-except-self) |
@@ -19,18 +20,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
