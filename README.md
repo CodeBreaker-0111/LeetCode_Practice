@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [3536-maximum-product-of-two-digits](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
@@ -108,4 +109,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [3536-maximum-product-of-two-digits](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
