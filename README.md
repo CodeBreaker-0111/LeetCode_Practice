@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0347-top-k-frequent-elements) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting Sort
