@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0877-stone-game) |
 ## Stack
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting Sort
 |  |
@@ -143,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0078-subsets) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
