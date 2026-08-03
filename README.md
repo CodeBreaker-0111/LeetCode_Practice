@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0347-top-k-frequent-elements) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/3536-maximum-product-of-two-digits) |
