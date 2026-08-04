@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0202-happy-number) |
@@ -173,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0059-spiral-matrix-ii) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
