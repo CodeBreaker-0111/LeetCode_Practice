@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0134-gas-station) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0242-valid-anagram) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0073-set-matrix-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
