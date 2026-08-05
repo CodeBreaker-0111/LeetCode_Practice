@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
