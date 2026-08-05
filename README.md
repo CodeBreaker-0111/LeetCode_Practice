@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0066-plus-one) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0877-stone-game) |
 ## Stack
