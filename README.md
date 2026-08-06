@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0134-gas-station) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0074-search-a-2d-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0704-binary-search) |
 ## Dynamic Programming
