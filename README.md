@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0877-stone-game) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Dynamic Programming
 |  |
 | ------- |
