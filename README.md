@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0374-guess-number-higher-or-lower](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -204,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
