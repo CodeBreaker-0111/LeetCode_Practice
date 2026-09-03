@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/3536-maximum-product-of-two-digits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/CodeBreaker-0111/LeetCode_Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Counting Sort
 |  |
 | ------- |
